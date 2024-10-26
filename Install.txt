@@ -1,0 +1,7 @@
+Install python
+
+pip install keyboard
+
+pip install numpy mss pywin32
+
+Press the scroll wheel to activate.
