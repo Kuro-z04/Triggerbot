@@ -1,1 +1,1 @@
-# Triggerbot Valorant
+# Triggerbot VLR
